@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/EVGEN/Desktop/dev/SIAOD/lab5/HashTable.cpp
+HashTable.h
+C:/Users/EVGEN/Desktop/dev/SIAOD/lab5/HashTable.h
+cmath
+-
+memory.h
+-
+
+C:/Users/EVGEN/Desktop/dev/SIAOD/lab5/HashTable.h
+iostream
+-
+
